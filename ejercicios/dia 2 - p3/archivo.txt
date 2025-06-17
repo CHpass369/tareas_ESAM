@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo.
+Contiene varias líneas de texto.
+Usado para pruebas de lectura.

@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "autor": "Marcelo",
+    "parametros": {
+        "limite": 100,
+        "modo": "automatico"
+    },
+    "usuarios": [
+        "ana",
+        "juan",
+        "maria"
+    ]
+}

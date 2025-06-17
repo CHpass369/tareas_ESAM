@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+    <cliente>
+        <nombre>Ana Martínez</nombre>
+        <edad>28</edad>
+        <ciudad>La Paz</ciudad>
+    </cliente>
+    <cliente>
+        <nombre>Juan Pérez</nombre>
+        <edad>35</edad>
+        <ciudad>Cochabamba</ciudad>
+    </cliente>
+    <cliente>
+        <nombre>María González</nombre>
+        <edad>42</edad>
+        <ciudad>Santa Cruz</ciudad>
+    </cliente>
+</clientes>
